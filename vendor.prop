@@ -87,6 +87,7 @@ vendor.qcom.bluetooth.soc=cherokee
 
 # Camera
 ro.camera.notify_nfc=1
+vendor.camera.aux.packageexcludelist=org.telegram.messenger,org.thunderdog.challegram,us.zoom.videomeetings
 
 # Crypto
 keyguard.no_require_sim=true
