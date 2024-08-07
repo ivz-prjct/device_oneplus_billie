@@ -491,7 +491,7 @@ vendor/lib64/libalCFR.so
 vendor/lib64/libAlgoProcess.so
 vendor/lib64/libancbase_segbase.so
 vendor/lib64/libAncSegBaseSdk.so
-vendor/lib64/libaps_frame_registration.so
+vendor/lib64/libaps_frame_registration.so|cedd2d482dac76d229fcd83c1c419bec2b09c9da
 vendor/lib64/libapsdarksight.so
 vendor/lib64/libapsexif.so
 vendor/lib64/libapsjpeg.so
@@ -584,7 +584,7 @@ vendor/lib64/libVDDualCameraBlurlessAPI.so
 vendor/lib64/libVDFusionBlurlessAPI_v2.so
 vendor/lib64/libVDSuperPhotoAPI.so
 vendor/lib64/libvl53l1_daemon.so
-vendor/lib64/libyuv2.so
+vendor/lib64/libyuv2.so|419a92793fd8935f60252ede11377b1ac7a61088
 vendor/lib64/sensors.hal.tof.so
 vendor/lib64/vendor.oneplus.hardware.camera@1.0.so
 vendor/lib64/vendor.oneplus.hardware.CameraMDMHIDL@1.0.so
