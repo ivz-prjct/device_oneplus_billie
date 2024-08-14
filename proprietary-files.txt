@@ -403,8 +403,8 @@ vendor/lib64/sensors.hal.tof.so
 vendor/lib64/vendor.oneplus.hardware.camera@1.0.so
 vendor/lib64/vendor.oneplus.hardware.CameraMDMHIDL@1.0.so
 vendor/lib64/vendor.qti.hardware.camera.device@1.0.so
-vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.bitra.so
-vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
+vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.bitra.so|34a2fa88218319beb4af70ccdfc0b86905f5d1fa
+vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|bbbb7d8ae125cb1b2d8ad4e9932b3b6e8451f61f
 vendor/lib64/vendor.qti.hardware.camera.postproc@1.0.so
 vendor/lib64/vendor.qti.hardware.seccam@1.0.so
 
@@ -897,8 +897,8 @@ vendor/lib64/unnhal-acc-hvx.so
 vendor/lib/libpn557_fw.so
 
 # NFC Configs
-vendor/etc/libnfc-nci.conf
-vendor/etc/libnfc-nxp.conf
+vendor/etc/libnfc-nci.conf|38a6b9eaba4ad496822c9ea2b60e076c6aaf11eb
+vendor/etc/libnfc-nxp.conf|9b9bd109326b43f3f47a302dd539b01ed55295d1
 
 # OMX
 vendor/lib/libAlacSwDec.so
