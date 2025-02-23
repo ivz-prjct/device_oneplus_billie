@@ -368,7 +368,7 @@ PRODUCT_PACKAGES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.billie
+    android.hardware.light-service.lineage
 
 # Media - Codec2 modules
 PRODUCT_PACKAGES += \
